@@ -269,7 +269,7 @@ h2 {
     
 
       .block {
-        max-width: 240px;
+        max-width: 270px;
         display: block;
         margin-left: -13px;
         margin-right: auto;
@@ -282,7 +282,7 @@ h2 {
           height: 770px;
           margin-left: 0px;
           margin-top: -25px;
-          width: 240px;
+          width: 270px;
       }
 
       .contactbox {
@@ -331,7 +331,7 @@ h2 {
 }
 
 .project-link {
-    font-size: 9px;
+    font-size: 10px;
 }
 
 .lasttitle {
