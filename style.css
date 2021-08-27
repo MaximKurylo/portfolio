@@ -32,15 +32,22 @@ body {
     width: 22px;
     margin: 0;
     position: absolute;
-    
+    opacity: 0.6;
 }
 
+#tel:hover {
+    opacity: 5;
+  }
+
+  #mail:hover {
+    opacity: 5;
+  }
 
 
 #mail {
     width: 30px;
     margin: 0;
-    
+    opacity: 0.6;
     position: absolute;
     
 } 
@@ -177,6 +184,11 @@ h2 {
         font-size: 15px;
         font-weight: 400;
         line-height: 24px;
+        opacity: 0.8;
+    }
+
+    .project-link:hover {
+        opacity: 5;
     }
 
     .tech-name {
